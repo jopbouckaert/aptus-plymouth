@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=aptus-plymouth
+Description=aptus Plymouth theme by - Nilotpal Biswas J
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/aptus-plymouth
+ScriptFile=/usr/share/plymouth/themes/aptus-plymouth/aptus-plymouth.script

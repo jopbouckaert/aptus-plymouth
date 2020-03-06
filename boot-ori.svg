@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="374px" viewBox="0 0 500 374" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo white</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Social" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Logo-white">
+            <g id="Group" transform="translate(11.000000, 4.000000)">
+                <polygon id="Triangle" fill="#FFFFFF" points="0 0 160 172.392028 51.1347665 355"></polygon>
+                <polygon id="Triangle-2" stroke="#FFFFFF" points="53.2792544 351 53.5 353.395967 52 354"></polygon>
+                <polyline id="Path-3" stroke="#FFFFFF" stroke-width="5" points="153.860437 177.233886 227.288238 56 251 268.335062 53 351"></polyline>
+                <path d="" id="Path-2" stroke="#979797"></path>
+            </g>
+            <text id="Aptus" font-family="Montserrat-Bold, Montserrat" font-size="93" font-weight="bold" letter-spacing="0.0724625066" fill="#FFFFFF">
+                <tspan x="193" y="273">Aptus</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
